@@ -19,7 +19,6 @@ Bu proje, **Tailwind CSS** kullanılarak oluşturulmuş modern ve responsive bir
 
 📦TailwindCss ReviewPage
 ┣ 📜index.html
-┣ 📜style.css (varsa)
 ┣ 📜README.md
 
 ````
